@@ -1,0 +1,34 @@
+.strip1{
+  background-color: lightgray;
+  padding: 10px;
+  padding-left: 20px;
+
+}
+.little-square{
+  background-color: cornflowerblue;
+  height: 75px;
+  width: 75px;
+}
+.strip2{
+  background-color: white;
+  padding: 50px;
+  font-size: 9px;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+}
+.strip3{
+  background-color: cornflowerblue;
+  height: 85px;
+}
+.strip4{
+  background-color: aquamarine;
+  height: 85px;
+}
+.strip5{
+  background-color: lightgreen;
+  height: 85px;
+}
+.strip6{
+  background-color: yellow;
+  height: 85px;
+}
